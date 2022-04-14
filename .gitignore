@@ -6,8 +6,8 @@
 /out-tsc
 /bazel-out
 
-#git
-.gitignore
+#package
+package-lock.json
 
 # Node
 /node_modules
