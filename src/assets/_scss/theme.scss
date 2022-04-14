@@ -52,7 +52,13 @@ h1 {
     }
   }
   #list-car {
-    margin-top: 70px;
+    @media (min-width: 300px) {
+      margin-top: 30px;
+    }
+
+    @media (min-width: 992px) {
+      margin-top: 70px;
+    }
     .card {
       img {
         height: 180px;

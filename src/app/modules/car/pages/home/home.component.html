@@ -1,14 +1,14 @@
 <div id="car" *ngIf="ready">
     <app-carousel [carList]="carsToSlide"></app-carousel>
     <div class="container mtop80">
-        <div class="row justify-content-md-center">
+        <div class="row justify-content-md-center mbottom30">
             <div class="col-md-auto text-center" id="legend">
                 <h3>Best Cars in town for you</h3>
                 <h5>Rent Cars from TMYZKM</h5>
             </div>
         </div>
         <div class="row">
-            <div class="d-flex flex-row-reverse bd-highlight mb-3">
+            <div class="d-flex flex-row-reverse bd-highlight">
                 <div class="p-2 bd-highlight">
                     <input type="text" class="form-control" [(ngModel)]="searchItem" placeholder="Search...">
                 </div>
