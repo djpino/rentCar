@@ -1,0 +1,16 @@
+.carousel {
+  .carousel-inner {
+    .carousel-item {
+      img {
+        height: 765px;
+      }
+      .carousel-caption{
+        background: rgba(0,0,0, 0.5);
+        padding: 10px;
+        h5{
+            font-size: 2.5rem;
+        }
+      }
+    }
+  }
+}

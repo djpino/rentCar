@@ -1,0 +1,92 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+@import "./var.scss";
+@import "./helpers.scss";
+
+body {
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+}
+main#main {
+  background-color: #8e69f4;
+  padding: 40px 35px;
+}
+main#basic {
+  background-color: $ligth-gray2;
+}
+h1 {
+  color: $gray;
+  position: relative;
+  &::before {
+    content: "";
+    width: 100px;
+    height: 4px;
+    position: absolute;
+    background: $orange;
+    display: inline;
+    left: 50%;
+    transform: translate(-50%, 50px);
+  }
+}
+#car {
+  background-color: $ligth-gray;
+  #legend {
+    h3 {
+      color: $gray;
+      font-size: 20px;
+    }
+    h5 {
+      color: $ligth-gray2;
+      font-size: 16px;
+      font-weight: 400;
+      position: relative;
+      &::before {
+        content: "";
+        width: 100px;
+        height: 4px;
+        position: absolute;
+        background: $orange;
+        display: inline;
+        left: 50%;
+        transform: translate(-50%, 40px);
+      }
+    }
+  }
+  #list-car {
+    margin-top: 70px;
+    .card {
+      img {
+        height: 180px;
+      }
+      .card-body {
+        text-align: center;
+        .card-title {
+          color: $gray;
+          font-weight: bold;
+        }
+        .card-text {
+          color: $gray;
+        }
+      }
+    }
+  }
+  #header {
+    img {
+      height: 50vw;
+    }
+  }
+  #details {
+    i {
+      font-size: 3rem;
+      color: $orange;
+    }
+    p {
+      font-size: 18px;
+      color: $gray;
+    }
+    h2{
+        color: $gray;
+        margin-top: 15px;
+        margin-bottom: 25px;
+    }
+  }
+}

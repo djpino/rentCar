@@ -1,0 +1,30 @@
+<div id="car" *ngIf="ready">
+    <app-carousel [carList]="carsToSlide"></app-carousel>
+    <div class="container mtop80">
+        <div class="row justify-content-md-center">
+            <div class="col-md-auto text-center" id="legend">
+                <h3>Best Cars in town for you</h3>
+                <h5>Rent Cars from TMYZKM</h5>
+            </div>
+        </div>
+        <div class="row">
+            <div class="d-flex flex-row-reverse bd-highlight mb-3">
+                <div class="p-2 bd-highlight">
+                    <input type="text" class="form-control" [(ngModel)]="searchItem" placeholder="Search...">
+                </div>
+            </div>
+        </div>
+        <div class="row" id="list-car">
+            <div class="col-md-3 mbottom20" *ngFor="let car of cars | searchFilter: searchItem">
+                <div class="card">
+                    <img src="{{car.photo}}" class="card-img-top" alt="{{car.model}}">
+                    <div class="card-body">
+                        <h5 class="card-title">{{car.model}}</h5>
+                        <p class="card-text">{{car.specification | slice:0:150}}</p>
+                        <a href="car/details/{{car.id}}" class="btn more">+ More +</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,407 @@
+[
+    {
+        "id": 1,
+        "model": "Q4 e-tron Sportback",
+        "year": 2022,
+        "brand": "Audi",
+        "specification": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras quis consectetur ipsum. Nullam vehicula ex porta, interdum metus et, mattis augue. Pellentesque aliquam ut sapien eget vehicula",
+        "price": 2500,
+        "photo": "https://imageio.forbes.com/specials-images/imageserve/5d35eacaf1176b0008974b54/2020-Chevrolet-Corvette-Stingray/0x0.jpg"
+    },
+    {
+        "id": 2,
+        "model": "X1 Sports Activity",
+        "year": 2021,
+        "brand": "BMW",
+        "specification": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras quis consectetur ipsum. Nullam vehicula ex porta, interdum metus et, mattis augue. Pellentesque aliquam ut sapien eget vehicula",
+        "price": 7000,
+        "photo": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/2022-chevrolet-corvette-z06-1607016574.jpg"
+    },
+    {
+        "id": 3,
+        "model": "Onix Turbo",
+        "year": 2023,
+        "brand": "Chevrolet",
+        "specification": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras quis consectetur ipsum. Nullam vehicula ex porta, interdum metus et, mattis augue. Pellentesque aliquam ut sapien eget vehicula",
+        "price": 4600,
+        "photo": "https://hips.hearstapps.com/autoweek/assets/Untitled-1_8.jpg"
+    },
+    {
+        "id": 4,
+        "model": "C3-XR",
+        "year": 2019,
+        "brand": "Citroen",
+        "specification": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras quis consectetur ipsum. Nullam vehicula ex porta, interdum metus et, mattis augue. Pellentesque aliquam ut sapien eget vehicula",
+        "price": 4500,
+        "photo": "https://www.bugatti.com/fileadmin/_processed_/9/5/csm_HEADER_22de7ed3a8.jpg"
+    },
+    {
+        "id": 5,
+        "model": "Fiat",
+        "year": 2015,
+        "brand": "Fiat",
+        "specification": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras quis consectetur ipsum. Nullam vehicula ex porta, interdum metus et, mattis augue. Pellentesque aliquam ut sapien eget vehicula",
+        "price": 3000,
+        "photo": "https://hips.hearstapps.com/hmg-prod/images/14bugatti-divo-99leadgallery-1535035005.jpg"
+    },
+    {
+        "id": 6,
+        "model": "500X SPORT",
+        "year": 2022,
+        "brand": "Ford",
+        "specification": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras quis consectetur ipsum. Nullam vehicula ex porta, interdum metus et, mattis augue. Pellentesque aliquam ut sapien eget vehicula",
+        "price": 3500,
+        "photo": "https://cdn.motor1.com/images/mgl/YnknJ/s1/bugatti-divo-liveries.jpg"
+    },
+    {
+        "id": 7,
+        "model": "Jeep Grand Cherokee",
+        "year": 2021,
+        "brand": "Jeep",
+        "specification": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras quis consectetur ipsum. Nullam vehicula ex porta, interdum metus et, mattis augue. Pellentesque aliquam ut sapien eget vehicula",
+        "price": 2000,
+        "photo": "https://periodismodelmotor.com/wp-content/uploads/2021/03/bugatti-divo-lady-bug--1280x720.jpg"
+    },
+    {
+        "id": 8,
+        "model": "CX-3",
+        "year": 2020,
+        "brand": "Mazda",
+        "specification": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras quis consectetur ipsum. Nullam vehicula ex porta, interdum metus et, mattis augue. Pellentesque aliquam ut sapien eget vehicula",
+        "price": 10000,
+        "photo": "https://www.elespectador.com/resizer/DFOD3IxFTCQBUooPkmEKZwuh2Gc=/arc-anglerfish-arc2-prod-elespectador/public/3QJCCTYDRZDORGJNVLIZZQLGRM.jpg"
+    },
+    {
+        "id": 9,
+        "model": "Sandero",
+        "year": 2010,
+        "brand": "Renault",
+        "specification": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras quis consectetur ipsum. Nullam vehicula ex porta, interdum metus et, mattis augue. Pellentesque aliquam ut sapien eget vehicula",
+        "price": 5000,
+        "photo": "https://cdn.motor1.com/images/mgl/2X46B/s1/bugatti-divo-color-combination.webp"
+    },
+    {
+        "id": 10,
+        "model": "Q4 e-tron Sportback 1",
+        "year": 2022,
+        "brand": "Audi",
+        "specification": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras quis consectetur ipsum. Nullam vehicula ex porta, interdum metus et, mattis augue. Pellentesque aliquam ut sapien eget vehicula",
+        "price": 2500,
+        "photo": "https://imageio.forbes.com/specials-images/imageserve/5d35eacaf1176b0008974b54/2020-Chevrolet-Corvette-Stingray/0x0.jpg"
+    },
+    {
+        "id": 11,
+        "model": "X1 Sports Activity 1",
+        "year": 2021,
+        "brand": "BMW",
+        "specification": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras quis consectetur ipsum. Nullam vehicula ex porta, interdum metus et, mattis augue. Pellentesque aliquam ut sapien eget vehicula",
+        "price": 7000,
+        "photo": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/2022-chevrolet-corvette-z06-1607016574.jpg"
+    },
+    {
+        "id": 12,
+        "model": "Onix Turbo 1",
+        "year": 2023,
+        "brand": "Chevrolet",
+        "specification": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras quis consectetur ipsum. Nullam vehicula ex porta, interdum metus et, mattis augue. Pellentesque aliquam ut sapien eget vehicula",
+        "price": 4600,
+        "photo": "https://hips.hearstapps.com/autoweek/assets/Untitled-1_8.jpg"
+    },
+    {
+        "id": 13,
+        "model": "C3-XR 1",
+        "year": 2019,
+        "brand": "Citroen",
+        "specification": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras quis consectetur ipsum. Nullam vehicula ex porta, interdum metus et, mattis augue. Pellentesque aliquam ut sapien eget vehicula",
+        "price": 4500,
+        "photo": "https://www.bugatti.com/fileadmin/_processed_/9/5/csm_HEADER_22de7ed3a8.jpg"
+    },
+    {
+        "id": 14,
+        "model": "Fiat 1",
+        "year": 2015,
+        "brand": "Fiat",
+        "specification": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras quis consectetur ipsum. Nullam vehicula ex porta, interdum metus et, mattis augue. Pellentesque aliquam ut sapien eget vehicula",
+        "price": 3000,
+        "photo": "https://hips.hearstapps.com/hmg-prod/images/14bugatti-divo-99leadgallery-1535035005.jpg"
+    },
+    {
+        "id": 15,
+        "model": "500X SPORT 1",
+        "year": 2022,
+        "brand": "Ford",
+        "specification": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras quis consectetur ipsum. Nullam vehicula ex porta, interdum metus et, mattis augue. Pellentesque aliquam ut sapien eget vehicula",
+        "price": 3500,
+        "photo": "https://cdn.motor1.com/images/mgl/YnknJ/s1/bugatti-divo-liveries.jpg"
+    },
+    {
+        "id": 16,
+        "model": "Jeep Grand Cherokee 1",
+        "year": 2021,
+        "brand": "Jeep",
+        "specification": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras quis consectetur ipsum. Nullam vehicula ex porta, interdum metus et, mattis augue. Pellentesque aliquam ut sapien eget vehicula",
+        "price": 2000,
+        "photo": "https://periodismodelmotor.com/wp-content/uploads/2021/03/bugatti-divo-lady-bug--1280x720.jpg"
+    },
+    {
+        "id": 17,
+        "model": "CX-3 1",
+        "year": 2020,
+        "brand": "Mazda",
+        "specification": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras quis consectetur ipsum. Nullam vehicula ex porta, interdum metus et, mattis augue. Pellentesque aliquam ut sapien eget vehicula",
+        "price": 10000,
+        "photo": "https://www.elespectador.com/resizer/DFOD3IxFTCQBUooPkmEKZwuh2Gc=/arc-anglerfish-arc2-prod-elespectador/public/3QJCCTYDRZDORGJNVLIZZQLGRM.jpg"
+    },
+    {
+        "id": 18,
+        "model": "Sandero 1",
+        "year": 2010,
+        "brand": "Renault",
+        "specification": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras quis consectetur ipsum. Nullam vehicula ex porta, interdum metus et, mattis augue. Pellentesque aliquam ut sapien eget vehicula",
+        "price": 5000,
+        "photo": "https://cdn.motor1.com/images/mgl/2X46B/s1/bugatti-divo-color-combination.webp"
+    },
+    {
+        "id": 19,
+        "model": "Q4 e-tron Sportback 2",
+        "year": 2022,
+        "brand": "Audi",
+        "specification": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras quis consectetur ipsum. Nullam vehicula ex porta, interdum metus et, mattis augue. Pellentesque aliquam ut sapien eget vehicula",
+        "price": 2500,
+        "photo": "https://imageio.forbes.com/specials-images/imageserve/5d35eacaf1176b0008974b54/2020-Chevrolet-Corvette-Stingray/0x0.jpg"
+    },
+    {
+        "id": 20,
+        "model": "X1 Sports Activity 2",
+        "year": 2021,
+        "brand": "BMW",
+        "specification": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras quis consectetur ipsum. Nullam vehicula ex porta, interdum metus et, mattis augue. Pellentesque aliquam ut sapien eget vehicula",
+        "price": 7000,
+        "photo": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/2022-chevrolet-corvette-z06-1607016574.jpg"
+    },
+    {
+        "id": 21,
+        "model": "Onix Turbo 2",
+        "year": 2023,
+        "brand": "Chevrolet",
+        "specification": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras quis consectetur ipsum. Nullam vehicula ex porta, interdum metus et, mattis augue. Pellentesque aliquam ut sapien eget vehicula",
+        "price": 4600,
+        "photo": "https://hips.hearstapps.com/autoweek/assets/Untitled-1_8.jpg"
+    },
+    {
+        "id": 22,
+        "model": "C3-XR 2",
+        "year": 2019,
+        "brand": "Citroen",
+        "specification": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras quis consectetur ipsum. Nullam vehicula ex porta, interdum metus et, mattis augue. Pellentesque aliquam ut sapien eget vehicula",
+        "price": 4500,
+        "photo": "https://www.bugatti.com/fileadmin/_processed_/9/5/csm_HEADER_22de7ed3a8.jpg"
+    },
+    {
+        "id": 23,
+        "model": "Fiat 2",
+        "year": 2015,
+        "brand": "Fiat",
+        "specification": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras quis consectetur ipsum. Nullam vehicula ex porta, interdum metus et, mattis augue. Pellentesque aliquam ut sapien eget vehicula",
+        "price": 3000,
+        "photo": "https://hips.hearstapps.com/hmg-prod/images/14bugatti-divo-99leadgallery-1535035005.jpg"
+    },
+    {
+        "id": 24,
+        "model": "500X SPORT 2",
+        "year": 2022,
+        "brand": "Ford",
+        "specification": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras quis consectetur ipsum. Nullam vehicula ex porta, interdum metus et, mattis augue. Pellentesque aliquam ut sapien eget vehicula",
+        "price": 3500,
+        "photo": "https://cdn.motor1.com/images/mgl/YnknJ/s1/bugatti-divo-liveries.jpg"
+    },
+    {
+        "id": 25,
+        "model": "Jeep Grand Cherokee 2",
+        "year": 2021,
+        "brand": "Jeep",
+        "specification": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras quis consectetur ipsum. Nullam vehicula ex porta, interdum metus et, mattis augue. Pellentesque aliquam ut sapien eget vehicula",
+        "price": 2000,
+        "photo": "https://periodismodelmotor.com/wp-content/uploads/2021/03/bugatti-divo-lady-bug--1280x720.jpg"
+    },
+    {
+        "id": 26,
+        "model": "CX-3 2",
+        "year": 2020,
+        "brand": "Mazda",
+        "specification": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras quis consectetur ipsum. Nullam vehicula ex porta, interdum metus et, mattis augue. Pellentesque aliquam ut sapien eget vehicula",
+        "price": 10000,
+        "photo": "https://www.elespectador.com/resizer/DFOD3IxFTCQBUooPkmEKZwuh2Gc=/arc-anglerfish-arc2-prod-elespectador/public/3QJCCTYDRZDORGJNVLIZZQLGRM.jpg"
+    },
+    {
+        "id": 27,
+        "model": "Sandero 2",
+        "year": 2010,
+        "brand": "Renault",
+        "specification": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras quis consectetur ipsum. Nullam vehicula ex porta, interdum metus et, mattis augue. Pellentesque aliquam ut sapien eget vehicula",
+        "price": 5000,
+        "photo": "https://cdn.motor1.com/images/mgl/2X46B/s1/bugatti-divo-color-combination.webp"
+    },
+    {
+        "id": 28,
+        "model": "Q4 e-tron Sportback 3",
+        "year": 2022,
+        "brand": "Audi",
+        "specification": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras quis consectetur ipsum. Nullam vehicula ex porta, interdum metus et, mattis augue. Pellentesque aliquam ut sapien eget vehicula",
+        "price": 2500,
+        "photo": "https://imageio.forbes.com/specials-images/imageserve/5d35eacaf1176b0008974b54/2020-Chevrolet-Corvette-Stingray/0x0.jpg"
+    },
+    {
+        "id": 29,
+        "model": "X1 Sports Activity 3",
+        "year": 2021,
+        "brand": "BMW",
+        "specification": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras quis consectetur ipsum. Nullam vehicula ex porta, interdum metus et, mattis augue. Pellentesque aliquam ut sapien eget vehicula",
+        "price": 7000,
+        "photo": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/2022-chevrolet-corvette-z06-1607016574.jpg"
+    },
+    {
+        "id": 30,
+        "model": "Onix Turbo 3",
+        "year": 2023,
+        "brand": "Chevrolet",
+        "specification": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras quis consectetur ipsum. Nullam vehicula ex porta, interdum metus et, mattis augue. Pellentesque aliquam ut sapien eget vehicula",
+        "price": 4600,
+        "photo": "https://hips.hearstapps.com/autoweek/assets/Untitled-1_8.jpg"
+    },
+    {
+        "id": 31,
+        "model": "C3-XR 3",
+        "year": 2019,
+        "brand": "Citroen",
+        "specification": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras quis consectetur ipsum. Nullam vehicula ex porta, interdum metus et, mattis augue. Pellentesque aliquam ut sapien eget vehicula",
+        "price": 4500,
+        "photo": "https://www.bugatti.com/fileadmin/_processed_/9/5/csm_HEADER_22de7ed3a8.jpg"
+    },
+    {
+        "id": 32,
+        "model": "Fiat 3",
+        "year": 2015,
+        "brand": "Fiat",
+        "specification": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras quis consectetur ipsum. Nullam vehicula ex porta, interdum metus et, mattis augue. Pellentesque aliquam ut sapien eget vehicula",
+        "price": 3000,
+        "photo": "https://hips.hearstapps.com/hmg-prod/images/14bugatti-divo-99leadgallery-1535035005.jpg"
+    },
+    {
+        "id": 33,
+        "model": "500X SPORT 3",
+        "year": 2022,
+        "brand": "Ford",
+        "specification": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras quis consectetur ipsum. Nullam vehicula ex porta, interdum metus et, mattis augue. Pellentesque aliquam ut sapien eget vehicula",
+        "price": 3500,
+        "photo": "https://cdn.motor1.com/images/mgl/YnknJ/s1/bugatti-divo-liveries.jpg"
+    },
+    {
+        "id": 34,
+        "model": "Jeep Grand Cherokee 3",
+        "year": 2021,
+        "brand": "Jeep",
+        "specification": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras quis consectetur ipsum. Nullam vehicula ex porta, interdum metus et, mattis augue. Pellentesque aliquam ut sapien eget vehicula",
+        "price": 2000,
+        "photo": "https://periodismodelmotor.com/wp-content/uploads/2021/03/bugatti-divo-lady-bug--1280x720.jpg"
+    },
+    {
+        "id": 35,
+        "model": "CX-3 3",
+        "year": 2020,
+        "brand": "Mazda",
+        "specification": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras quis consectetur ipsum. Nullam vehicula ex porta, interdum metus et, mattis augue. Pellentesque aliquam ut sapien eget vehicula",
+        "price": 10000,
+        "photo": "https://www.elespectador.com/resizer/DFOD3IxFTCQBUooPkmEKZwuh2Gc=/arc-anglerfish-arc2-prod-elespectador/public/3QJCCTYDRZDORGJNVLIZZQLGRM.jpg"
+    },
+    {
+        "id": 36,
+        "model": "Sandero 3",
+        "year": 2010,
+        "brand": "Renault",
+        "specification": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras quis consectetur ipsum. Nullam vehicula ex porta, interdum metus et, mattis augue. Pellentesque aliquam ut sapien eget vehicula",
+        "price": 5000,
+        "photo": "https://cdn.motor1.com/images/mgl/2X46B/s1/bugatti-divo-color-combination.webp"
+    },
+    {
+        "id": 37,
+        "model": "Q4 e-tron Sportback 4",
+        "year": 2022,
+        "brand": "Audi",
+        "specification": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras quis consectetur ipsum. Nullam vehicula ex porta, interdum metus et, mattis augue. Pellentesque aliquam ut sapien eget vehicula",
+        "price": 2500,
+        "photo": "https://imageio.forbes.com/specials-images/imageserve/5d35eacaf1176b0008974b54/2020-Chevrolet-Corvette-Stingray/0x0.jpg"
+    },
+    {
+        "id": 38,
+        "model": "X1 Sports Activity 4",
+        "year": 2021,
+        "brand": "BMW",
+        "specification": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras quis consectetur ipsum. Nullam vehicula ex porta, interdum metus et, mattis augue. Pellentesque aliquam ut sapien eget vehicula",
+        "price": 7000,
+        "photo": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/2022-chevrolet-corvette-z06-1607016574.jpg"
+    },
+    {
+        "id": 39,
+        "model": "Onix Turbo 4",
+        "year": 2023,
+        "brand": "Chevrolet",
+        "specification": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras quis consectetur ipsum. Nullam vehicula ex porta, interdum metus et, mattis augue. Pellentesque aliquam ut sapien eget vehicula",
+        "price": 4600,
+        "photo": "https://hips.hearstapps.com/autoweek/assets/Untitled-1_8.jpg"
+    },
+    {
+        "id": 40,
+        "model": "C3-XR 4",
+        "year": 2019,
+        "brand": "Citroen",
+        "specification": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras quis consectetur ipsum. Nullam vehicula ex porta, interdum metus et, mattis augue. Pellentesque aliquam ut sapien eget vehicula",
+        "price": 4500,
+        "photo": "https://www.bugatti.com/fileadmin/_processed_/9/5/csm_HEADER_22de7ed3a8.jpg"
+    },
+    {
+        "id": 41,
+        "model": "Fiat 4",
+        "year": 2015,
+        "brand": "Fiat",
+        "specification": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras quis consectetur ipsum. Nullam vehicula ex porta, interdum metus et, mattis augue. Pellentesque aliquam ut sapien eget vehicula",
+        "price": 3000,
+        "photo": "https://hips.hearstapps.com/hmg-prod/images/14bugatti-divo-99leadgallery-1535035005.jpg"
+    },
+    {
+        "id": 42,
+        "model": "500X SPORT 4",
+        "year": 2022,
+        "brand": "Ford",
+        "specification": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras quis consectetur ipsum. Nullam vehicula ex porta, interdum metus et, mattis augue. Pellentesque aliquam ut sapien eget vehicula",
+        "price": 3500,
+        "photo": "https://cdn.motor1.com/images/mgl/YnknJ/s1/bugatti-divo-liveries.jpg"
+    },
+    {
+        "id": 43,
+        "model": "Jeep Grand Cherokee 4",
+        "year": 2021,
+        "brand": "Jeep",
+        "specification": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras quis consectetur ipsum. Nullam vehicula ex porta, interdum metus et, mattis augue. Pellentesque aliquam ut sapien eget vehicula",
+        "price": 2000,
+        "photo": "https://periodismodelmotor.com/wp-content/uploads/2021/03/bugatti-divo-lady-bug--1280x720.jpg"
+    },
+    {
+        "id": 44,
+        "model": "CX-3 4",
+        "year": 2020,
+        "brand": "Mazda",
+        "specification": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras quis consectetur ipsum. Nullam vehicula ex porta, interdum metus et, mattis augue. Pellentesque aliquam ut sapien eget vehicula",
+        "price": 10000,
+        "photo": "https://www.elespectador.com/resizer/DFOD3IxFTCQBUooPkmEKZwuh2Gc=/arc-anglerfish-arc2-prod-elespectador/public/3QJCCTYDRZDORGJNVLIZZQLGRM.jpg"
+    },
+    {
+        "id": 45,
+        "model": "Sandero 4",
+        "year": 2010,
+        "brand": "Renault",
+        "specification": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras quis consectetur ipsum. Nullam vehicula ex porta, interdum metus et, mattis augue. Pellentesque aliquam ut sapien eget vehicula",
+        "price": 5000,
+        "photo": "https://cdn.motor1.com/images/mgl/2X46B/s1/bugatti-divo-color-combination.webp"
+    }
+]

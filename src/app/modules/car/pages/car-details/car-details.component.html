@@ -1,0 +1,32 @@
+<div id="car">
+    <div id="header">
+        <img class="w-100" src="{{car.photo}}" alt="{{car.model}}">
+    </div>
+    <div class="container mtop40" id="details">
+        <div class="row justify-content-md-center">
+            <div class="col-md-auto text-center">
+                <h1>{{car.model}}</h1>
+            </div>
+        </div>
+        <div class="row text-center mtop40">
+            <div class="col-md-4">
+                <i class="bi bi-award-fill"></i>
+                <p *ngIf="car.brand"><strong>Brand: </strong> {{car.brand}}</p>
+            </div>
+            <div class="col-md-4">
+                <i class="bi bi-bookmark-star-fill"></i>
+                <p *ngIf="car.year"><strong>Year: </strong> {{car.year}}</p>
+            </div>
+            <div class="col-md-4">
+                <i class="bi bi-currency-dollar"></i>
+                <p *ngIf="car.price"><strong>Price: </strong> {{car.price}}</p>
+            </div>
+        </div>
+        <div class="row justify-content-md-center">
+            <div class="col-md-auto text-center">
+                <h2>Specification</h2>
+                <p>{{car.specification}}</p>
+            </div>
+        </div>
+    </div>
+</div>

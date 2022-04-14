@@ -1,0 +1,17 @@
+.mbottom20{
+    margin-bottom: 20px;
+}
+.mtop40{
+    margin-top: 40px;
+}
+.mtop80{
+    margin-top: 80px;
+}
+.more{
+    color: $orange;
+    font-size: 18px;
+    font-weight: 600;
+    &:hover{
+        color: #f7a515;
+    }
+}
